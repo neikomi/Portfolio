@@ -12,3 +12,5 @@
 - I was tasked to develop maintenance screens including frontend, backend, and databases. Moreover, I was able to gain experience with Typescript, HTML, CSS, Java, and MySQL alongside with VSCode.
 
 ## Projects
+### [The Epitome of Elements](https://drive.google.com/drive/folders/1Eh5Sa47Tl942rzQ5q_7bNNbvOBD0rVSt?usp=drive_link)
+Epitome of Elements is a Thesis project based game developed by three (3) members. It is a 2D Pixel Typing RPG Game which uses a keyboard in order to type as its main combat system. The game was developed using Unity (2D) with C# as its scripting language. I was tasked and reposible for creating and animating the game's sprites and enemies. I also did some testing and debugging of all sorts during the gameplay.
