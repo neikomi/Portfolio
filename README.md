@@ -38,4 +38,4 @@ A 2D RPG Platformer game which was solely made for a Thesis proposal and a final
 
 - **Email:** creditonico@gmail.com
 - **Phone:** 09772355282
-- **Find my resume** [here](/assets/img/Credito_Resume.pdf)
+- Find my resume [here](/assets/img/Credito_Resume.pdf)
