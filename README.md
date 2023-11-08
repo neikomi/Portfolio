@@ -6,8 +6,8 @@
 
 ## Education
 - Bachelor of Science in Computer Science Specializing in Game Development | De La Salle University - Dasmariñas (_2019 - 2023_)
-- STEM	| Saint Jude Parish School (_2017 - 2019_)	 			        		
-- High Schoool | Alpha International School, RAK, UAE (_2014 - 2017_)
+- STEM	       | Saint Jude Parish School (_2017 - 2019_)	 			        		
+- High School | Alpha International School, RAK, UAE (_2014 - 2017_)
   
 
 
