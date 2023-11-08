@@ -33,3 +33,8 @@ This is one of the animated sprites/enemies that I've made.
 A 2D RPG Platformer game which was solely made for a Thesis proposal and a final requirement for a subject with no educational aspect compared to The Epitome of Elements. It was also developed using Unity (2D) with C# as its scripting language. I was responsible for the map design and animation sequence.
    - ##### Preview of the Game
 ![Image4](/assets/img/image.png)
+
+### Contact Information
+
+- **Email:** creditonico@gmail.com
+- **Phone:** 09772355282
